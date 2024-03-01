@@ -1,0 +1,15 @@
+/* El * sirve para mover el contenido hacia diferentes  margenes de la pagina*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    color: #cc1616c8;
+}
+.imagen { /* clase porque comienza con un punto*/
+    border: 20px;
+    border-color: rgb(233, 145, 14);
+    border-style: inset;
+}
